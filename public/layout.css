@@ -1,0 +1,52 @@
+body {
+    background-color: yellow
+} 
+#wrapper {
+    width: 600px;
+    margin: auto;
+}
+#textUsername {
+    background-color: transparent;
+    border: 1px solid red;
+}
+#left {
+    width: 30%;
+    float: left;
+    background-color: #f0f2d0;
+}
+#right {
+    width: 70%;
+    float: right;
+    background-color: #d4f9f8;
+
+}
+#left, #right {
+    min-height: 300px
+}
+#boxTitle {
+    border: 1px solid blue;
+    padding: 7px;
+    text-align: center;
+    margin-top: 5px;
+    font-weight: bold;
+}
+#boxContent {
+    border: 1px solid green;
+    border-top: none;
+    padding: 5px;
+    margin-top: 5px;
+    text-align: center;
+}
+#Now {
+    text-align: right;
+}
+#listUser {
+    height: 300px;
+    background-color:aquamarine;
+    margin-bottom: 15px;
+}
+#contentMessage {
+    background-color: transparent;
+    border: 1px solid black;
+   
+}
